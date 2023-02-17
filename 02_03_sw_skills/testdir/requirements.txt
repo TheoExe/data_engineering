@@ -1,0 +1,1 @@
+git+https://git@github.com/TheoExe/uvainstallablepackage.git@v0.0.5a
